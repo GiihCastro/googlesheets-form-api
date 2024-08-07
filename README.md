@@ -1,13 +1,10 @@
 # Contact Form with Google Sheets Integration
 
+<img src="./arquivos/preview.png" alt="preview img" width="100%" />
+
 ## 🖥️ Description
 
 This project features a contact form integrated with Google Sheets using Google Apps Script. The form captures user inputs and sends them directly to a Google Sheet for storage and management.
-
-## Preview
-
-![Preview Image]
-<img src="./arquivos/preview.jpg" alt="preview img" width="100%" />
 
 ## 🚀 Features
 
